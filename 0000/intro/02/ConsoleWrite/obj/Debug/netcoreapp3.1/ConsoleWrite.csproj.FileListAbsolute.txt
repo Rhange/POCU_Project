@@ -1,0 +1,13 @@
+D:\POCU_Project\0000\intro\02\ConsoleWrite\bin\Debug\netcoreapp3.1\ConsoleWrite.exe
+D:\POCU_Project\0000\intro\02\ConsoleWrite\bin\Debug\netcoreapp3.1\ConsoleWrite.deps.json
+D:\POCU_Project\0000\intro\02\ConsoleWrite\bin\Debug\netcoreapp3.1\ConsoleWrite.runtimeconfig.json
+D:\POCU_Project\0000\intro\02\ConsoleWrite\bin\Debug\netcoreapp3.1\ConsoleWrite.runtimeconfig.dev.json
+D:\POCU_Project\0000\intro\02\ConsoleWrite\bin\Debug\netcoreapp3.1\ConsoleWrite.dll
+D:\POCU_Project\0000\intro\02\ConsoleWrite\bin\Debug\netcoreapp3.1\ConsoleWrite.pdb
+D:\POCU_Project\0000\intro\02\ConsoleWrite\obj\Debug\netcoreapp3.1\ConsoleWrite.csprojAssemblyReference.cache
+D:\POCU_Project\0000\intro\02\ConsoleWrite\obj\Debug\netcoreapp3.1\ConsoleWrite.AssemblyInfoInputs.cache
+D:\POCU_Project\0000\intro\02\ConsoleWrite\obj\Debug\netcoreapp3.1\ConsoleWrite.AssemblyInfo.cs
+D:\POCU_Project\0000\intro\02\ConsoleWrite\obj\Debug\netcoreapp3.1\ConsoleWrite.csproj.CoreCompileInputs.cache
+D:\POCU_Project\0000\intro\02\ConsoleWrite\obj\Debug\netcoreapp3.1\ConsoleWrite.dll
+D:\POCU_Project\0000\intro\02\ConsoleWrite\obj\Debug\netcoreapp3.1\ConsoleWrite.pdb
+D:\POCU_Project\0000\intro\02\ConsoleWrite\obj\Debug\netcoreapp3.1\ConsoleWrite.genruntimeconfig.cache
