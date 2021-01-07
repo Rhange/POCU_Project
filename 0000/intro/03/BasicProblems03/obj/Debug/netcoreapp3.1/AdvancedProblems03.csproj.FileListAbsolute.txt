@@ -1,0 +1,13 @@
+D:\POCU_Project\0000\intro\03\BasicProblems03\bin\Debug\netcoreapp3.1\AdvancedProblems03.exe
+D:\POCU_Project\0000\intro\03\BasicProblems03\bin\Debug\netcoreapp3.1\AdvancedProblems03.deps.json
+D:\POCU_Project\0000\intro\03\BasicProblems03\bin\Debug\netcoreapp3.1\AdvancedProblems03.runtimeconfig.json
+D:\POCU_Project\0000\intro\03\BasicProblems03\bin\Debug\netcoreapp3.1\AdvancedProblems03.runtimeconfig.dev.json
+D:\POCU_Project\0000\intro\03\BasicProblems03\bin\Debug\netcoreapp3.1\AdvancedProblems03.dll
+D:\POCU_Project\0000\intro\03\BasicProblems03\bin\Debug\netcoreapp3.1\AdvancedProblems03.pdb
+D:\POCU_Project\0000\intro\03\BasicProblems03\obj\Debug\netcoreapp3.1\AdvancedProblems03.AssemblyInfoInputs.cache
+D:\POCU_Project\0000\intro\03\BasicProblems03\obj\Debug\netcoreapp3.1\AdvancedProblems03.AssemblyInfo.cs
+D:\POCU_Project\0000\intro\03\BasicProblems03\obj\Debug\netcoreapp3.1\AdvancedProblems03.csproj.CoreCompileInputs.cache
+D:\POCU_Project\0000\intro\03\BasicProblems03\obj\Debug\netcoreapp3.1\AdvancedProblems03.dll
+D:\POCU_Project\0000\intro\03\BasicProblems03\obj\Debug\netcoreapp3.1\AdvancedProblems03.pdb
+D:\POCU_Project\0000\intro\03\BasicProblems03\obj\Debug\netcoreapp3.1\AdvancedProblems03.genruntimeconfig.cache
+D:\POCU_Project\0000\intro\03\BasicProblems03\obj\Debug\netcoreapp3.1\AdvancedProblems03.csprojAssemblyReference.cache
