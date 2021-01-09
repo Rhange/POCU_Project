@@ -1,0 +1,3 @@
+D:\POCU_Project\0000\intro\04\WrongVariable\obj\Debug\netcoreapp3.1\WrongVariable.AssemblyInfoInputs.cache
+D:\POCU_Project\0000\intro\04\WrongVariable\obj\Debug\netcoreapp3.1\WrongVariable.AssemblyInfo.cs
+D:\POCU_Project\0000\intro\04\WrongVariable\obj\Debug\netcoreapp3.1\WrongVariable.csproj.CoreCompileInputs.cache
