@@ -1,0 +1,12 @@
+D:\POCU_Project\0000\06\DoorLock\bin\Debug\netcoreapp3.1\DoorLock.exe
+D:\POCU_Project\0000\06\DoorLock\bin\Debug\netcoreapp3.1\DoorLock.deps.json
+D:\POCU_Project\0000\06\DoorLock\bin\Debug\netcoreapp3.1\DoorLock.runtimeconfig.json
+D:\POCU_Project\0000\06\DoorLock\bin\Debug\netcoreapp3.1\DoorLock.runtimeconfig.dev.json
+D:\POCU_Project\0000\06\DoorLock\bin\Debug\netcoreapp3.1\DoorLock.dll
+D:\POCU_Project\0000\06\DoorLock\bin\Debug\netcoreapp3.1\DoorLock.pdb
+D:\POCU_Project\0000\06\DoorLock\obj\Debug\netcoreapp3.1\DoorLock.AssemblyInfoInputs.cache
+D:\POCU_Project\0000\06\DoorLock\obj\Debug\netcoreapp3.1\DoorLock.AssemblyInfo.cs
+D:\POCU_Project\0000\06\DoorLock\obj\Debug\netcoreapp3.1\DoorLock.csproj.CoreCompileInputs.cache
+D:\POCU_Project\0000\06\DoorLock\obj\Debug\netcoreapp3.1\DoorLock.dll
+D:\POCU_Project\0000\06\DoorLock\obj\Debug\netcoreapp3.1\DoorLock.pdb
+D:\POCU_Project\0000\06\DoorLock\obj\Debug\netcoreapp3.1\DoorLock.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\POCU_Project\0000\06\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.exe
+D:\POCU_Project\0000\06\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.deps.json
+D:\POCU_Project\0000\06\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.runtimeconfig.json
+D:\POCU_Project\0000\06\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.runtimeconfig.dev.json
+D:\POCU_Project\0000\06\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.dll
+D:\POCU_Project\0000\06\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.pdb
+D:\POCU_Project\0000\06\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.AssemblyInfoInputs.cache
+D:\POCU_Project\0000\06\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.AssemblyInfo.cs
+D:\POCU_Project\0000\06\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.csproj.CoreCompileInputs.cache
+D:\POCU_Project\0000\06\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.dll
+D:\POCU_Project\0000\06\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.pdb
+D:\POCU_Project\0000\06\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\POCU_Project\0000\06\AdvancedProblems\bin\Debug\netcoreapp3.1\AdvancedProblems.exe
+D:\POCU_Project\0000\06\AdvancedProblems\bin\Debug\netcoreapp3.1\AdvancedProblems.deps.json
+D:\POCU_Project\0000\06\AdvancedProblems\bin\Debug\netcoreapp3.1\AdvancedProblems.runtimeconfig.json
+D:\POCU_Project\0000\06\AdvancedProblems\bin\Debug\netcoreapp3.1\AdvancedProblems.runtimeconfig.dev.json
+D:\POCU_Project\0000\06\AdvancedProblems\bin\Debug\netcoreapp3.1\AdvancedProblems.dll
+D:\POCU_Project\0000\06\AdvancedProblems\bin\Debug\netcoreapp3.1\AdvancedProblems.pdb
+D:\POCU_Project\0000\06\AdvancedProblems\obj\Debug\netcoreapp3.1\AdvancedProblems.AssemblyInfoInputs.cache
+D:\POCU_Project\0000\06\AdvancedProblems\obj\Debug\netcoreapp3.1\AdvancedProblems.AssemblyInfo.cs
+D:\POCU_Project\0000\06\AdvancedProblems\obj\Debug\netcoreapp3.1\AdvancedProblems.csproj.CoreCompileInputs.cache
+D:\POCU_Project\0000\06\AdvancedProblems\obj\Debug\netcoreapp3.1\AdvancedProblems.dll
+D:\POCU_Project\0000\06\AdvancedProblems\obj\Debug\netcoreapp3.1\AdvancedProblems.pdb
+D:\POCU_Project\0000\06\AdvancedProblems\obj\Debug\netcoreapp3.1\AdvancedProblems.genruntimeconfig.cache
