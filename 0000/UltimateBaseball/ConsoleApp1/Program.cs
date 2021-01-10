@@ -17,17 +17,34 @@ namespace UltimateBaseball
             Console.WriteLine("| 숫자가 틀리면 아웃입니다.                            |");
             Console.WriteLine("+------------------------------------------------------+");
 
-            Console.WriteLine("> 수비수가 고른 숫자");
-            int[] numbers = { 3, 1, 9 };
+            Random random = new Random();
 
-            for (int i = 0; i < 3; i++)
+            int[] numbers = new int[3];
+
+            int index = 0;
+            while (index < 3)
             {
-                Console.WriteLine(numbers[i]);
+                numbers[index] = random.Next(0, 10);
+
+                bool hasDuplicate = false;
+                for (int j = 0; j < index; j++)
+                {
+                    if (numbers[index] == numbers[j])
+                    {
+                        hasDuplicate = true;
+                        break;
+                    }
+                }
+
+                if (!hasDuplicate)
+                {
+                    index++;
+                }
             }
 
             int[] guesses = new int[3];
             string[] inputMessages = { "> 첫 번째 숫자를 입력하세요.", "> 두 번째 숫자를 입력하세요.", "> 세 번째 숫자를 입력하세요." };
-
+            int counts = 0;
             while (true)
             {
                 for (int i = 0; i < 3; i++)
@@ -70,6 +87,9 @@ namespace UltimateBaseball
                     }
                 }
 
+                counts++;
+                Console.Write(counts);
+                Console.WriteLine("번 시도");
                 Console.Write("스트라이크: ");
                 Console.WriteLine(strikeCount);
                 Console.Write("볼: ");
